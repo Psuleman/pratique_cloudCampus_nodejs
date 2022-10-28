@@ -1,0 +1,1 @@
+export const private_key = 'cvxcbnertyuiytfds542vbkyutdsfd3454sfghvcxvxc'
